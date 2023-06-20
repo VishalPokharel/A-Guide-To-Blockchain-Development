@@ -66,5 +66,6 @@ A useful YouTube channel to keep an eye out for frauds, some of which are tied t
 [Coffeezilla](https://youtube.com/@Coffeezilla)
 
  
-
+Complete Web3 Developer Roadmap:
+https://remote3.co/blog-post/complete-web3-developer-roadmap-2022
   
